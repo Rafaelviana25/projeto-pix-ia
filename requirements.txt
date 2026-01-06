@@ -1,1 +1,4 @@
-flaskmercadopagosupabasegunicorn
+flask
+mercadopago
+supabase
+gunicorn
